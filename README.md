@@ -59,7 +59,7 @@ Models were evaluated based on **accuracy** and **ROC AUC** and achieved the fol
 
 - **KNN:** **92.77% accuracy** on the validation set.
 - **Random Forest:** **96.34% accuracy** on the validation set.
-- **Deep Neural Network (DNN):**  
+- **Deep Neural Network ROC AUC scores:**  
   - training set: **0.979** 
   - test set: **0.957**
 
