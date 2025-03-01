@@ -1,6 +1,6 @@
 # Airline Passenger Satisfaction Prediction
 
-This project aims to predict customer satisfaction based on flight-related features. The effectiveness of machine learning models, including K-Nearest Neighbors (KNN) and Random Forest, is assessed in predicting passenger satisfaction. Additionally, a deep learning model using Keras is employed to classify whether a customer is satisfied or not, and the performance of these models is compared.
+This project aims to predict Airline Passenger satisfaction based on flight-related features. The effectiveness of machine learning models, including K-Nearest Neighbors (KNN) and Random Forest, is assessed in predicting passenger satisfaction. Additionally, a deep learning model using Keras is employed to classify whether a customer is satisfied or not, and the performance of these models is compared.
 
 ## Dataset
 
